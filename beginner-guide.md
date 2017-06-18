@@ -16,7 +16,7 @@ Maintain a respectful behavior towards other players not matter where they're fr
 Respect mixity in languages : in-game, english is recommended, as spectator, please respect others speaking or move to another channel.
 Respect mission makers and team leader while they speak during briefings
 
-### Rules of the game[modifier]
+### Rules of the game
 No team kill on purpose
 No shooting at respawn (please rebing G to 2xG for grenades)
 Do not loot uniforms or radios
