@@ -6,7 +6,7 @@ layout: default
 
 
 ## Rules
-When one participates to World War 2 Open Games, one agrees to respect those simple rules.
+When one participates to any Battlegroup 21 Open Games, one agrees to respect those simple rules.
 
 ### Well being rules
 * No insults.
