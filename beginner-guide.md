@@ -53,6 +53,7 @@ Don't forget to remove your safety after the end of warm-up time.
 * [F2] View distance preset 2
 * [F3] View distance preset 3
 * [F4] Mute sound
+
 (all those value can be configured in WMT Menu)
 
 
