@@ -5,6 +5,7 @@ layout: default
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to Beginner Guide](beginner-guide).
+
 [Link to Mission Maker Guide](gm).
 
 There should be whitespace between paragraphs.
