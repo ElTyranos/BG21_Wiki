@@ -5,6 +5,9 @@
 
 header {
     font-family: Lato,'Helvetica Neue',Arial,Helvetica,sans-serif;
+    background: #8d928e url(../images/wiki-bg.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
 }
 
 header a.button {
@@ -21,3 +24,13 @@ a.button {
     font-family: Lato,'Helvetica Neue',Arial,Helvetica,sans-serif;
 }
 
+header {
+    padding-top: 40px;
+    padding-bottom: 40px;
+    font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
+    background: #8d928e url(http://i.anodal.org/images/2017/06/18/653e5cf….jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    /* text-align: center; */
+    border-bottom: solid 1px #275da1;
+}
