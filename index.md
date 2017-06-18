@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# [](#header-1)Battelgroup 21 Wiki
+# [](#header-1)Battlegroup 21 Wiki
 
 [Link to Beginner Guide](beginner-guide).
 
