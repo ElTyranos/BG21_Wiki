@@ -48,36 +48,23 @@ There are plenty of useful informations in map's briefing tab Image
 ### In game
 Don't forget to remove your safety after the end of warm-up time.
 
-[Home] WMT Menu
-
-[F1] View distance preset 1
-
-[F2] View distance preset 2
-
-[F3] View distance preset 3
-
-[F4] Mute sound
-
+* [Home] WMT Menu
+* [F1] View distance preset 1
+* [F2] View distance preset 2
+* [F3] View distance preset 3
+* [F4] Mute sound
 (all those value can be configured in WMT Menu)
 
 
 ### As spectator
-[F1] Show A3 help
-
-[F2] Statistics
-
-[F3] WMT Menu
-
-[M] Open the map
-
-[U] Show bullet ray tracers
-
-[L] Lite a candy
-
-[N] NVG / thermal / normal cycle
-
-[SPACE] If spectator has a unit focused it changes through the available camera modes
-
-[PAGE UP/DOWN] Adjust spectator view distance
+* [F1] Show A3 help
+* [F2] Statistics
+* [F3] WMT Menu
+* [M] Open the map
+* [U] Show bullet ray tracers
+* [L] Lite a candy
+* [N] NVG / thermal / normal cycle
+* [SPACE] If spectator has a unit focused it changes through the available camera modes
+* [PAGE UP/DOWN] Adjust spectator view distance
 
 [back](./)
