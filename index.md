@@ -2,15 +2,15 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# [](#header-1)Battelgroup 21 Wiki
 
 [Link to Beginner Guide](beginner-guide).
 
 [Link to Mission Maker Guide](gm).
 
-There should be whitespace between paragraphs.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+Text can be **bold**, _italic_, or ~~strikethrough~~.
+
 
 # [](#header-1)Header 1
 
