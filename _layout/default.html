@@ -17,7 +17,9 @@
       <header>
         <h1 class="header">{{ site.title | default: site.github.repository_name }}</h1>
         <p class="header">{{ site.description | default: site.github.project_tagline }}</p>
-
+        
+        {% if site.show_downloads %}{% endif %}
+        
         <ul>
           <li><a class="buttons github" href="/beginner-guidemd">Open Games beginner guide</a></li>
           <li><a class="buttons github" href="/gm-md">Mission maker Wiki</a></li>
