@@ -25,7 +25,7 @@ When one participates to any Battlegroup 21 Open Games, one agrees to respect th
 # Repository synchronisation
 ![](http://www.sonsofexiled.fr/wiki/images/7/7d/ArmA3Sync.png)
 
-**[Install A3Sync](http://www.sonsofexiled.fr/wiki/index.php/ArmA3Sync_Wiki_English#Installation).**
+>> [**Install A3Sync**](http://www.sonsofexiled.fr/wiki/index.php/ArmA3Sync_Wiki_English#Installation)
 
 * In the tab "repositories", click on the blue "**+**", copy this URL (ftp://repository.battlegroup21.com/autoconfig) in the autoconfig field, click on Import then Ok, check "Notify" to check for updates automatically on A3Sync start.
 * Repository status may be red (UPDATED) if updates are needed or green (OK) if not.
