@@ -59,6 +59,7 @@ _Exemple :_
 
 ## Alphabet phonétique
 
+
 | .           	| .          	| .            	| .           	| .          	|
 |-------------	|------------	|--------------	|-------------	|------------	|
 | A = Alpha   	| G = Golf   	| M = Mike     	| S = Sierra  	| Y = Yankee 	|
@@ -68,7 +69,9 @@ _Exemple :_
 | E = Echo    	| K = Kilo   	| Q = Québec   	| W = Whisky  	|            	|
 | F = Foxtrot 	| L = Lima   	| R = Roméo    	| X = X-Ray   	|            	|
 
+
 ## Termes de procédure principaux
+
 
 | Terme			| Signification									|
 |-------------------	|-----------------------------------------------------------------------------	|
@@ -89,3 +92,4 @@ _Exemple :_
 | PRENEZ MESSAGE    	| Prenez par écrit le message qui suit.                                       	|
 | / ENVOYEZ MESSAGE 	|                                                                             	|
 | TERMINÉ           	| Ceci est la fin de ma transmission. Je n'ai plus rien à vous dire.          	|
+
