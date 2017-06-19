@@ -4,6 +4,14 @@ layout: default
 
 # Welcome to Mission Maker Wiki
 
+*Cette première page vous guidera à travers l'installation du framework selon que vous souhaitiez GM en PvP ou en CooP.*
+
+Choisissez votre type de mission :
+* [CooP](#préparer-lenvironnement-coop)
+* [PvP](#préparer-lenvironnement-pvp)
+
+<hr />
+
 ## Préparer l'environnement CooP
 Rendez vous sur https://github.com/ElTyranos/BG21_Sandbox.altis et enregistrez le template sur votre ordinateur.
 ![cliquez sur "clone or download > download zip"](http://i.imgur.com/zNMBhVI.jpg)
@@ -36,6 +44,7 @@ Il existe plusieurs possibilités :
 #### Important
 Il est idéal de prendre l'habitude de toujours avoir un respawn pour chaque camp. En effet, si vous oubliez de mettre un spawn BLUFOR et que vous mourrez, vous n'aurez pas la possibilité, même en étant GameMaster, d'en replacer un nouveau. Vous n'aurez plus qu'à remballer.
 
+<hr />
 
 ## Préparer l'environnement PvP
 Rendez vous sur https://github.com/ElTyranos/BG21_PvP et enregistrez le template sur votre ordinateur.
