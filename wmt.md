@@ -570,4 +570,143 @@ layout: default
 </table>
 
 
+
+
+
+
+
+
+
+
+
+
+
+##Список функций:
+* [WMT_fnc_BoundingBoxMarker](#wmt_fnc_boundingboxmarker)
+* [WMT_fnc_BriefingMap](#wmt_fnc_briefingmap)
+* [WMT_fnc_EndMission](#wmt_fnc_endmission)
+* [WMT_fnc_IsTheUnitInsideMarker](#wmt_fnc_istheunitinsidemarker)
+* [WMT_fnc_ProgressBar](#wmt_fnc_progressbar)
+* [WMT_fnc_ShowTaskNotification](#wmt_fnc_showtasknotification)
+* [WMT_fnc_ZoneCaptured](#wmt_fnc_zonecaptured)
+
+***
+
+###WMT_fnc_BoundingBoxMarker
+##### Параметры:
+* 0 - OBJECT
+* 1 - COLOR: цвет маркера
+* 2 - SCALAR: прозрачность маркера
+
+##### Описание:
+Добавляет маркер на объект.
+Функция является локальной.
+
+##### Пример:
+`[this] call WMT_fnc_BoundingBoxMarker`
+
+`[this,"ColorRed"] call WMT_fnc_BoundingBoxMarker`
+
+`[this,"ColorGrey",0.5] call WMT_fnc_BoundingBoxMarker`
+
+***
+
+###WMT_fnc_BriefingMap
+##### Параметры: 
+-
+##### Описание:
+* Добавляет карту на время брифинга тем, у кого ее нету
+* Дает возможность использовать карту близкого союзника или карту из техники с GPS 
+* Функция должна вызываться в `init.sqf`
+
+##### Пример:
+`[] call WMT_fnc_BriefingMap;`
+
+***
+###WMT_fnc_EndMission
+##### Параметры: 
+* 0 - SIDE: выигрывавшая сторона 
+* 1 - STRING: сообщение
+
+##### Описание:
+Функция для завершения миссии с выводом сообщения. 
+Функция является локальной.
+
+##### Пример:
+`[east, "Восток победил"] call WMT_fnc_EndMission;`
+
+***
+
+###WMT_fnc_IsTheUnitInsideMarker
+##### Параметры: 
+* 0 - OBJECT
+* 1 - MARKER
+
+##### Описание:
+Проверяет нахождения объекта в маркере.
+Возвращает BOOL.
+
+##### Пример: 
+`[car,"zone_1"] call WMT_fnc_IsTheUnitInsideMarker`
+
+***
+
+###WMT_fnc_ProgressBar
+##### Параметры: 
+* 0 - BOOL: показать/скрыть бар 
+* 0 - SCALAR: установить положение бара
+
+##### Описание:
+Показывает прогресс выполнения какого-либо действия.
+
+Важно: при использовании функции необходима проверка значение `WMT_mutexAction `и вызывать функцию, только если значение равно `false`.
+
+##### Пример: 
+1. `for "_i" from 0 to 100 do {`
+2. `   if(!WMT_mutexAction) then {`
+3. `      [_i/100] call WMT_fnc_ProgressBar;`
+4. `   };`
+5. `   sleep 0.1;`
+6. `};`
+7. `[false] call` WMT_fnc_ProgressBar;`
+
+***
+
+###WMT_fnc_ShowTaskNotification
+##### Параметры:
+* 0 - SIDE: сторона для которой задание считается выполненным 
+* 1 - STRING: сообщение
+
+##### Описание:
+Вывод сообщение.
+
+##### Пример: 
+`[east,"Объект уничтожен"] call WMT_fnc_ShowTaskNotification`
+
+`["Объект уничтожен"] call WMT_fnc_ShowTaskNotification`
+
+***
+
+###WMT_fnc_ZoneCaptured
+##### Параметры: 
+* 0 - SIDE: сторона захватившая зону
+* 1 - STRING: сообщение о захвате во всплывающем окне
+* 2 - ARRAY: список маркеров обозначающих зону
+
+##### Описание:
+Выводит сообщение о захвате зоны и изменяет цвета маркера на карте.
+
+##### Пример: 
+`[east, "CSAT захватил зону",["Zone_1"]] call WMT_fnc_EndMission;`
+
+
+
+
+
+
+
+
+
+
+
 [back](./)
