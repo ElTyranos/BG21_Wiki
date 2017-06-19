@@ -59,7 +59,7 @@ Avant tout échange d'information précise, il convient d'évaluer la qualité d
 -	21 terminé*
 
 ## Alphabet phonétique
-||||||
+|	.	|	.	|	.	|	.	|	.	|
 |-------------	|------------	|--------------	|-------------	|------------	|
 | A = Alpha   	| G = Golf   	| M = Mike     	| S = Sierra  	| Y = Yankee 	|
 | B = Bravo   	| H = Hotel  	| N = November 	| T = Tango   	| Z = Zulu   	|
@@ -69,7 +69,7 @@ Avant tout échange d'information précise, il convient d'évaluer la qualité d
 | F = Foxtrot 	| L = Lima   	| R = Roméo    	| X = X-Ray   	|            	|
 
 ## Termes de procédure principaux
-|||
+| Terme			| Signification									|
 |-------------------	|-----------------------------------------------------------------------------	|
 | ICI               	| Cette transmission vient de la station qui suit immédiatement               	|
 | PARLEZ            	| Ceci est la fin de ma transmission pour vous. Je vous écoute, parlez.       	|
