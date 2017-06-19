@@ -46,8 +46,7 @@ Il est idéal de prendre l'habitude de toujours avoir un respawn pour chaque cam
 <hr />
 
 ## Préparer l'environnement PvP
-Rendez vous sur [](https://github.com/ElTyranos/BG21_PvP) et enregistrez le template sur votre ordinateur.
-![cliquez sur "clone or download > download zip"](http://i.imgur.com/Zp2sHXa.jpg)
+[Enregistrez le template sur votre ordinateur.](https://github.com/ElTyranos/BG21_PvP/archive/master.zip)
 
 Allez dans EDEN, faites Fichier > Nouveau et choisissez la carte que vous souhaitez utiliser.  
 _Ex : je choisi takistan_
