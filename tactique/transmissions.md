@@ -59,7 +59,7 @@ Avant tout échange d'information précise, il convient d'évaluer la qualité d
 -	21 terminé*
 
 ## Alphabet phonétique
-|	.	|	.	|	.	|	.	|	.	|
+| .           	| .          	| .            	| .           	| .          	|
 |-------------	|------------	|--------------	|-------------	|------------	|
 | A = Alpha   	| G = Golf   	| M = Mike     	| S = Sierra  	| Y = Yankee 	|
 | B = Bravo   	| H = Hotel  	| N = November 	| T = Tango   	| Z = Zulu   	|
