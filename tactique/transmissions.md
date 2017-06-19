@@ -58,6 +58,7 @@ _Exemple :_
 * *21 terminé*
 
 ## Alphabet phonétique
+
 | .           	| .          	| .            	| .           	| .          	|
 |-------------	|------------	|--------------	|-------------	|------------	|
 | A = Alpha   	| G = Golf   	| M = Mike     	| S = Sierra  	| Y = Yankee 	|
@@ -68,6 +69,7 @@ _Exemple :_
 | F = Foxtrot 	| L = Lima   	| R = Roméo    	| X = X-Ray   	|            	|
 
 ## Termes de procédure principaux
+
 | Terme			| Signification									|
 |-------------------	|-----------------------------------------------------------------------------	|
 | ICI               	| Cette transmission vient de la station qui suit immédiatement               	|
