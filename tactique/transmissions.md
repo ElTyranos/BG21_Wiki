@@ -52,11 +52,10 @@ Avant tout échange d'information précise, il convient d'évaluer la qualité d
 * DÉFORMÉ ou BROUILLE = difficultés à comprendre le message
 * AVEC INTERFÉRENCE = impossibilité de comprendre (parasites, communication hachurée ...)
 
-* Exemple :
-
--	21 contrôle radio (appel)
--	21 fort et clair (réponse)
--	21 terminé*
+_Exemple :_
+* *21 contrôle radio (appel)*
+* *21 fort et clair (réponse)*
+* *21 terminé*
 
 ## Alphabet phonétique
 | .           	| .          	| .            	| .           	| .          	|
