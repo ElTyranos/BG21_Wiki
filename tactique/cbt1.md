@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Cours combat n°1
+# Cours combat n°1 : la base
 
 Le combat simplifié et adapté pour ArmA3. Par El Tyranos.
 
