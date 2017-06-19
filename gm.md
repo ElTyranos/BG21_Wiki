@@ -13,8 +13,7 @@ Choisissez votre type de mission :
 <hr />
 
 ## Préparer l'environnement CooP
-Rendez vous sur [](https://github.com/ElTyranos/BG21_Sandbox.altis) et enregistrez le template sur votre ordinateur.
-![cliquez sur "clone or download > download zip"](http://i.imgur.com/zNMBhVI.jpg)
+[Enregistrez le template sur votre ordinateur.](https://github.com/ElTyranos/BG21_Sandbox.altis/archive/master.zip)
 
 ### Editer le nom du dossier
 Extrayez le .zip dans le dossier _C:\Users\Username\Documents\Arma 3\mpmissions_. 
