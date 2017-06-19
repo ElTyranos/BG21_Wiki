@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Cours Transmissions
+# Cours Transmissions n°1 : base théorique
 
 ## Réseau et indicatif
 
