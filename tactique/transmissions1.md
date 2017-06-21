@@ -60,7 +60,7 @@ _Exemple :_
 ## Alphabet phonétique
 
 
-| .           	| .          	| .            	| .           	| .          	|
+|            	|           	|             	|            	|           	|
 |-------------	|------------	|--------------	|-------------	|------------	|
 | A = Alpha   	| G = Golf   	| M = Mike     	| S = Sierra  	| Y = Yankee 	|
 | B = Bravo   	| H = Hotel  	| N = November 	| T = Tango   	| Z = Zulu   	|
