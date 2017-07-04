@@ -2,7 +2,10 @@
 layout: default
 ---
 
-## WMT
+# WMT Mission Framework
+
+
+## Les modules
 
 | **Module**                | Description                            	|
 |-------------------------	|----------------------------------------	|
@@ -25,9 +28,9 @@ layout: default
 
 <tr>
 
-<th scope="col" align="center" width="35%">Параметр</th>
+<th scope="col" align="center" width="35%">Paramètre</th>
 
-<th scope="col" align="center" width="65%">Описание</th>
+<th scope="col" align="center" width="65%">Description</th>
 
 </tr>
 
@@ -240,8 +243,8 @@ layout: default
 <td valign="top">Les marqueurs dont le nom commence par `wmt_` et se termine par `_del sont automatiquement rendu invisible à la fin du briefing.  
 :warning: sensible à la casse  
 
-**Exemple:**  
-`wmt_marker_del``</td>
+**Exemple:** 
+`wmt_marker_del`</td>
 
 </tr>
 
@@ -281,7 +284,7 @@ layout: default
 <td valign="top">La mission se termine à la fin du temps.  
 
 **Valeur possible:**  
-*   **NUMBER** - temps en minutes  
+* **NUMBER** - temps en minutes  
 :warning: Le timer commence à la fin du briefing  
 :warning: Le timer est en temps réel (pas en temps de jeu)</td>
 
@@ -563,19 +566,7 @@ layout: default
 
 </table>
 
-
-
-
-
-
-
-
-
-
-
-
-
-##Список функций:
+##Fonctions:
 * [WMT_fnc_BoundingBoxMarker](#wmt_fnc_boundingboxmarker)
 * [WMT_fnc_BriefingMap](#wmt_fnc_briefingmap)
 * [WMT_fnc_EndMission](#wmt_fnc_endmission)
