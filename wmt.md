@@ -16,11 +16,10 @@ layout: default
 | **Task: VIP**           	| Destruction de VIP(s) dans une zone    	|
 | **Task: Compose**       	| Permet d'assigner des tâches multiples 	|
 
-<table border="0"><caption>
 
 ### Main module
 
-</caption>
+<table border="0">
 
 <thead>
 
@@ -183,11 +182,9 @@ layout: default
 
 </table>
 
-<table border="0"><caption>
-
 ### Fonctionnalités incluses
 
-</caption>
+<table border="0">
 
 <thead>
 
@@ -373,12 +370,9 @@ layout: default
 
 </table>
 
-
-<table border="0"><caption>
-
 ### Task: Point
 
-</caption>
+<table border="0">
 
 <thead>
 
