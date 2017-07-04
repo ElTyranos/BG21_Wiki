@@ -566,7 +566,7 @@ layout: default
 
 </table>
 
-##Fonctions:
+## Fonctions:
 * [WMT_fnc_BoundingBoxMarker](#wmt_fnc_boundingboxmarker)
 * [WMT_fnc_BriefingMap](#wmt_fnc_briefingmap)
 * [WMT_fnc_EndMission](#wmt_fnc_endmission)
@@ -577,7 +577,7 @@ layout: default
 
 ***
 
-###WMT_fnc_BoundingBoxMarker
+### WMT_fnc_BoundingBoxMarker
 ##### Параметры:
 * 0 - OBJECT
 * 1 - COLOR: цвет маркера
@@ -596,7 +596,7 @@ layout: default
 
 ***
 
-###WMT_fnc_BriefingMap
+### WMT_fnc_BriefingMap
 ##### Параметры: 
 -
 ##### Описание:
@@ -608,7 +608,7 @@ layout: default
 `[] call WMT_fnc_BriefingMap;`
 
 ***
-###WMT_fnc_EndMission
+### WMT_fnc_EndMission
 ##### Параметры: 
 * 0 - SIDE: выигрывавшая сторона 
 * 1 - STRING: сообщение
@@ -622,7 +622,7 @@ layout: default
 
 ***
 
-###WMT_fnc_IsTheUnitInsideMarker
+### WMT_fnc_IsTheUnitInsideMarker
 ##### Параметры: 
 * 0 - OBJECT
 * 1 - MARKER
@@ -636,7 +636,7 @@ layout: default
 
 ***
 
-###WMT_fnc_ProgressBar
+### WMT_fnc_ProgressBar
 ##### Параметры: 
 * 0 - BOOL: показать/скрыть бар 
 * 0 - SCALAR: установить положение бара
@@ -653,11 +653,11 @@ layout: default
 4. `   };`
 5. `   sleep 0.1;`
 6. `};`
-7. `[false] call` WMT_fnc_ProgressBar;`
+7. `[false] call WMT_fnc_ProgressBar;`
 
 ***
 
-###WMT_fnc_ShowTaskNotification
+### WMT_fnc_ShowTaskNotification
 ##### Параметры:
 * 0 - SIDE: сторона для которой задание считается выполненным 
 * 1 - STRING: сообщение
@@ -672,7 +672,7 @@ layout: default
 
 ***
 
-###WMT_fnc_ZoneCaptured
+### WMT_fnc_ZoneCaptured
 ##### Параметры: 
 * 0 - SIDE: сторона захватившая зону
 * 1 - STRING: сообщение о захвате во всплывающем окне
@@ -683,13 +683,6 @@ layout: default
 
 ##### Пример: 
 `[east, "CSAT захватил зону",["Zone_1"]] call WMT_fnc_EndMission;`
-
-
-
-
-
-
-
 
 
 
