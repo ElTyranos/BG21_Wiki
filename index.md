@@ -8,7 +8,7 @@ Bienvenue sur le wiki Battlegroup 21
 
 ## Pour nous parler en direct
 * [Discord](https://discord.gg/jjchTqr)
-* Team Speak 3 : *ts.battlegroup21.com*
+* [Team Speak 3](ts3server://ts.battlegroup21.com?port=9987)
 
 ## Liens utiles
 * [Site web](http://www.battlegroup21.com)
