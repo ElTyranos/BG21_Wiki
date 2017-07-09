@@ -16,15 +16,17 @@ We play every Thursday at **9PM** Paris time.
 **9:05 PM :** Mission start  
 The game will start at 9:05 PM. If you were late and not updated, we're sorry for you, you'll be able to catch up at the break between the two games, and you will come and test earlier next times :).  
 
+## Test Server
+srv.battelgroup21.com:2302
+
+Password : 1944
+
 ## A3 Sync
 Event and modset : [BG21] WW2 Open Games
 If you don't have our repository  or don't know how to use A3 Sync, please read [the beignner guide](http://wiki.battlegroup21.com/beginner-guide)
 
 ![](http://i.imgur.com/BfTffZL.gif)
 
-## Test Server
-srv.battelgroup21.com:2302
 
-Password : 1944
 
 [back](./)
