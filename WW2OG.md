@@ -22,4 +22,8 @@ If you don't have our repository  or don't know how to use A3 Sync, please read 
 
 ![](http://i.imgur.com/BfTffZL.gif)
 
+## Test Server
+srv.battelgroup21.com:2302
+Password : 1944
+
 [back](./)
