@@ -11,10 +11,10 @@ When one participates to any Battlegroup 21 Open Games, one agrees to respect th
 ### Well being rules
 * No insults.
 * No discrimination towards sex, age, gender, health status, social or geographical origin.
-* Support or diffuse the ideology of the factions which are played in game or their moddern counter-parts is forbidden.
-* Maintain a respectful behavior towards other players not matter where they're from, or your personnal grief or hanger.
+* Support or diffuse the totalitarian ideology of the factions which are played in game or their moddern reminiscences is forbidden.
+* Maintain a respectful behavior towards other players no matter where they're from, or your personnal grief or hanger.
 * Respect mixity in languages : in-game, english is recommended, as spectator, please respect others speaking or move to another channel.
-* Respect mission makers and team leader while they speak during briefings
+* Respect mission makers and your side leaders while they speak during briefings
 
 ### Rules of the game
 * No team kill on purpose
