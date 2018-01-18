@@ -2,16 +2,16 @@
 layout: default
 ---
 
-# Accueil
+# Home
 
-Bienvenue sur le wiki Battlegroup 21
+Welcome on Battlegroup 21 wiki
 
-## Pour nous parler en direct
+## To talk to us live
 * [Discord](https://discord.gg/jjchTqr)
 * Team Speak 3 : *ts.battlegroup21.com*
 
-## Liens utiles
-* [Site web](http://www.battlegroup21.com)
+## Useful links
+* [Website](http://www.battlegroup21.com)
 * [YouTube](https://www.youtube.com/c/battlegroup21)
 * [Twitter](https://twitter.com/BattleGroup21)
 * [Facebook](https://www.facebook.com/battlegroup21)
