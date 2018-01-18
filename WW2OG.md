@@ -20,6 +20,7 @@ The game will start at 9:05 PM. If you were late and not updated, we're sorry fo
 ## Server informations
 srv.battlegroup21.com:2302  
 Password : 1944  
+Team Speak: ts.battlegroup21.com  
 
 ## A3 Sync
 Event and modset : [BG21] WW2 Open Games
