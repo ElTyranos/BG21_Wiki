@@ -17,10 +17,9 @@ Upcoming games are announced as sticky then have a specific topic created a few 
 **9:05 PM :** Mission start  
 The game will start at 9:05 PM. If you were late and not updated, we're sorry for you, you'll be able to catch up at the break between the two games, and you will come and test earlier next times :).  
 
-## Test Server
-srv.battlegroup21.com:2302
-
-Password : 1944
+## Server informations
+srv.battlegroup21.com:2302  
+Password : 1944  
 
 ## A3 Sync
 Event and modset : [BG21] WW2 Open Games
