@@ -10,7 +10,8 @@ Missions oppose allies factions (USA, UK, Russia) to axis factions (Japan, Germa
 Master word is authenticity, therefore, no moddern functionnality and a very few number of radios.
 
 ## When do we play ?
-We play every Thursday at **9PM** Paris time.  
+We play one Thursday our of two at **9PM** Paris time.  
+Upcoming games are announced as sticky then have a specific topic created a few days prior the game in order to announce the briefing. Topics can come up late, but the game will still happen.  
 **Before 8PM :** Don't forget to resynchronize with A3Sync, some updates can be done late - try your setup on the test server  
 **8:30 PM** Begin connecting to teamspeak / game server  
 **9:05 PM :** Mission start  
