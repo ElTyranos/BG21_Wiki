@@ -9,6 +9,9 @@ Missions oppose allies factions (USA, UK, Russia) to axis factions (Japan, Germa
 
 Master word is authenticity, therefore, no moddern functionnalities and a very few number of radios.
 
+
+![](/assets/images/WW2OGpromo.png)
+
 ## When do we play ?
 We usually play on thursdays at **9PM** Paris time.  
 Upcoming games are announced on Discord. A planning is available and mission registration is announced via post a few days prior to the game.  
